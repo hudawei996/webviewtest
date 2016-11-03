@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_43271ab694c886c3dddb244c11aa2e546bf72999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9fa39a3e2fdd5b6b5e9b942495bc6b1346f93043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_12d908fb80668be7b11e14d95efbd0513c85ebc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_97b50bc44a0c5f7fe18c32aa81b445a5014ecd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_51b3120b5e9377da9153c398071313ab986b11be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_081233bb2cba2f38effcd795963d66411dc0de40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_2445fcb7f010732f3417c13c6559ea2d98e60056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_14e718c6fb15c67cfb65ed628314f4101a23e463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_b73d54d2e25b9ba33e2d297c009de8986c0671b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_135a5fa5cff42e1afe636099a1a78b7afebc1f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d2dc249b904888032622177eb80bb6cbf6bcb337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/huyongqiang/Downloads/WebViewTest1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_061819b3622402dd26a93d333bca9a97e768b4be.jar" />
+    </item>
+
+</items>
